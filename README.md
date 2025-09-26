@@ -3,15 +3,14 @@
 This project was developed as part of a coursework aimed at building a neural network model to predict the number of likes on TikTok videos.
 
 ## 📁 Project Structure
-'''
-tiktok_likes/
-├── parser_tiktok.py # Web scraper for TikTok video data
-├── tiktok_data.csv # Dataset
-├── tiktok_model_linearregression.ipynb # Jupyter Notebook with Linear Regression model
-├── tiktok_model_nn_bert.ipynb # Jupyter Notebook with Neural Network model
-└── README.md # Project documentation
-'''
 
+tiktok_likes/
+│
+├── parser_tiktok.py              # Web scraper for TikTok video data
+├── tiktok_data.csv               # Dataset
+├── tiktok_model_linearregression.ipynb    # Jupyter Notebook with Linear Regression model
+├── tiktok_model_nn_bert.ipynb    # Jupyter Notebook with Neural Network model
+└── README.md                     # Project documentation
 
 ## 🧠 Model Overview
 
