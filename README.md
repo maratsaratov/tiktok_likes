@@ -4,6 +4,7 @@ This project was developed as part of a coursework aimed at building a neural ne
 
 ## 📁 Project Structure
 
+```
 tiktok_likes/
 │
 ├── parser_tiktok.py              # Web scraper for TikTok video data
@@ -11,6 +12,7 @@ tiktok_likes/
 ├── tiktok_model_linearregression.ipynb    # Jupyter Notebook with Linear Regression model
 ├── tiktok_model_nn_bert.ipynb    # Jupyter Notebook with Neural Network model
 └── README.md                     # Project documentation
+```
 
 ## 🧠 Model Overview
 
